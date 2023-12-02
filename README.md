@@ -1,6 +1,4 @@
-# pandas-challenge
-Repository for Monash University Bootcamp Module 4
-
+# PyCitySchools
 ## File structure
 - Resources: directory including CSV files as provided with the assignment
 - Report.ipynb: Jupyter notebook used to analyse the data and present the results
